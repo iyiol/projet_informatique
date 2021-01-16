@@ -1,5 +1,5 @@
 # projet gestion d'inscription
-    Création d'un site pour gérer les inscription à un université.
+    Création d'un site pour gérer les inscription à une université.
 
 ## Créateur du projet
 
